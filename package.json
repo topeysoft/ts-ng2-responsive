@@ -1,0 +1,22 @@
+{
+  "name": "ts-ng2-responsive",
+  "version": "1.0.0",
+  "description": "Responsve service to be used with angular2 and up",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topeysoft/ts-ng2-responsive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/topeysoft/ts-ng2-responsive/issues"
+  },
+  "homepage": "https://github.com/topeysoft/ts-ng2-responsive#readme",
+  "dependencies": {
+    "ng2-responsive": "^0.8.3"
+  }
+}
